@@ -20,7 +20,7 @@ export default function About() {
       <p>Nationality: Nigeria</p>
       <p>Stack: MERN</p>
       <p>Git        : https://github.com/Ibrahimath </p>
-      <p>contact    : Please send a message to aboumuhammad2019@gmail.com for more contact info and enquiries</p>
+      <p>contact    : Please send a message to sadiq.ibrahim108@gmail.com for more contact info and enquiries</p>
       
 
       
