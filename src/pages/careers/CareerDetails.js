@@ -15,7 +15,7 @@ export default function CareerDetails() {
       <h2>Career Details for {career.title}</h2>
       <p>Salary: {career.salary || "N/A"}</p>
       <p>Candidate's required location: {career.candidate_required_location}</p>
-      <p>Company Name: {career.company_name}</p>
+      <p>Company's Name: {career.company_name}</p>
       <p>Job Type: {career.job_type}</p>
       <a href = {career.url}> Comprehensive info</a>
       <div className="details">
