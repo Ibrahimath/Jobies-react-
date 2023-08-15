@@ -18,6 +18,7 @@ export default function Home() {
         <p> Kindly note that your information is neither required nor stored.</p>
         <p> The website updates its info itself by fectching data from "remotive.com" and so the careers are real, functional and up-to-date according to what it fetches from the mentioned website. </p>
       <p>To know about the developer, kindly visit the "about page".</p>
+      <p>Thanks</p>
     </div>
   )
 }
