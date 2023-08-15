@@ -11,7 +11,7 @@ export default function Careers() {
   return (
     <div className="careers">
       <h2>Careers</h2>
-      <p>Refreshing the page gives a different list</p>
+      <h4>Refreshing the page gives a different list</h4>
       {Jobs20.map(career => (
         <Link to={career.id.toString()} key={career.id}>
           <p>{career.title}</p>
