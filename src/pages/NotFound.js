@@ -6,7 +6,7 @@ export default function NotFound() {
       <h2>Page not found!</h2>
       <p>We can't find what you seek</p>
 
-      <p>Go to the <NavLink to="/">Homepage</NavLink>.</p>
+      <p>Go to<NavLink to="/">Homepage</NavLink>.</p>
     </div>
   )
 }
