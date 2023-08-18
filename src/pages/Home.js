@@ -3,9 +3,7 @@ import { useState } from "react"
 export default function Home() {
   const [name, setName] = useState("")
 
-  // const HandleChange = (e) =>{
-  //   setName(value)
-  // }
+
   return (
     <div className="home">
       <h2>Welcome {name}!</h2>
